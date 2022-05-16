@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/ravi_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishadravi8" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ravicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ravicoder" height="30" width="40" /></a>
 <a href="https://medium.com/@ravicoder264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravicoder264" height="30" width="40" /></a>
-<a href="www.youtube.com/channel/uckv646imlxfnmu21dysgq-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckv646imlxfnmu21dysgq-g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkV646ImlXFNMU21dySGq-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckv646imlxfnmu21dysgq-g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
