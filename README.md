@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img  alt="Coding" height ="50px" src="https://media0.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952d3unw6q00lx8xh6565vdxsjoxo3tww5qvej2jdt6&rid=giphy.gif&ct=s">, I'm Ravi Kumar Dharamraj</h1>
+<h1 align="center">Hi <img height=45px; src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Ravi Nishad</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinishadcoder&label=Profile%20views&color=0e75b6&style=flat" alt="ravinishadcoder" /> </p>
