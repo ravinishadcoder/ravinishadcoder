@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img height=45px; src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Ravi Nishad</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://eportfolio.utm.my/artefact/file/download.php?file=963595&view=185127">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinishadcoder&label=Profile%20views&color=0e75b6&style=flat" alt="ravinishadcoder" /> </p>
 
 - 🌱 I’m currently learning **React js**
