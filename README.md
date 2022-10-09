@@ -10,7 +10,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif"> -->
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, Nextjs**
+
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
