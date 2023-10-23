@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <div style="padding:20px 0px">
-<p  align="center">I’m currently learning full-stack web development 🔭 with a specialization in MERN stack from Masai School. Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.</p>
+<p  align="center">"I'm a 🚀 full-stack web developer with a specialization in the MERN stack. I'm dedicated to creating efficient, user-friendly web applications and passionate about continuous growth 🌱 in the field. Excited to contribute my skills to exciting projects and advance as a developer. Let's code! 💻✨"</p>
 </div>
 <div style="box-sizing: border-box;">
 <!-- <img style="margin-bottom:10px; max-width: 400px;" align="right" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
